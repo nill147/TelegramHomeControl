@@ -1,0 +1,25 @@
+Arduino / ESP8266 build files
+.bin
+.elf
+.hex
+.eep
+.map
+.obj
+.o
+.a
+.d
+.dep
+.cmd
+.lst
+.srec
+.bak
+.tmp
+.swp
+.swo
+.dSYM/
+.DS_Store
+__pycache__/
+build/
+libraries/
+.vscode/
+.idea/
