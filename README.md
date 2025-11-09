@@ -84,4 +84,4 @@ Fully interactive Telegram keyboard and buzzer alerts for weather and system upd
 This project is licensed under the MIT License - free to use, modify, and share with credit.
 
 ---
-You have to know about "how to create <telegram bot> and what your <chat ID>"
+You have to know about "how to create 'telegram bot' and what your (chat ID)"
